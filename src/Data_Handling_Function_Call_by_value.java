@@ -1,4 +1,4 @@
-import java.util.*;
+/*import java.util.*;
 public class Data_Handling_Function {
      static int square(int x)
     {
@@ -13,7 +13,7 @@ public class Data_Handling_Function {
         int result =    Data_Handling_Function.square (n);
         System.out.println(" Suquare of a number is "+result);
     }
-}
+} */
 
 
 
